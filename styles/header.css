@@ -24,7 +24,7 @@
 }  
 .container__imagem{
     padding: 1em;  
-...
+
 .container__titulo{
     display: none;
 }
@@ -35,8 +35,10 @@
     font-family: var(--fonte-secundaria);
     font-size: 30px;
     font-weight: 400;
+ }
+.container__botao:checked~.lista-menu{
     display:block;
-    }
- .container__titulo--negrito{
+}
+.container__titulo--negrito{
     font-weight: 700;
 }
