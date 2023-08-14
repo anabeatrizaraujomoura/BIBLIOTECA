@@ -3,6 +3,8 @@
 :root{
     --cor-de-fundo: #fffff
     --branco: #ffff
+    --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans";
 }
 
 body{
