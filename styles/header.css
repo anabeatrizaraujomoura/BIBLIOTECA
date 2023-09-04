@@ -1,5 +1,4 @@
 .cabeçalho_manu-hamburguer{
-
     width: 24px;
     height: 24px;
     background-image: url("../img/Menu.svg");
@@ -44,4 +43,4 @@
 }
 .container__titulo--negrito{
     font-weight: 700;
-}
+}}
