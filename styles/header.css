@@ -29,6 +29,9 @@
     display: none;
 }
     
+.lista-menu{
+    display: none;
+}
     
 @media screen and (min-width: 1024px){
  .container__titulo{
