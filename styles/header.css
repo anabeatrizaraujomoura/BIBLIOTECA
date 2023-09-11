@@ -36,6 +36,9 @@
     top: 100%;
     width: 60vw;
 }
+.opções{
+    display: none;
+}
     
 @media screen and (min-width: 1024px){
  .container__titulo{
